@@ -34,7 +34,9 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "moment": "^2.24.0",
-    "swagger": "^0.7.5"
+    "swagger": "^0.7.5",
+    "swagger2": "^2.0.0",
+    "swagger2-koa": "^2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.7",
