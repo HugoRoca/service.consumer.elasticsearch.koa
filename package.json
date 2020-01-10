@@ -1,0 +1,25 @@
+{
+  "name": "service.consumer.elasticsearch.koa",
+  "version": "1.0.0",
+  "description": "service for consumer data of elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoRoca/service.consumer.elasticsearch.koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoRoca/service.consumer.elasticsearch.koa/issues"
+  },
+  "homepage": "https://github.com/HugoRoca/service.consumer.elasticsearch.koa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "koa": "^2.11.0",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "tslint": "^5.20.1"
+  }
+}
