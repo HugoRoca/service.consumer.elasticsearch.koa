@@ -24,7 +24,12 @@
   "dependencies": {
     "express": "^4.17.1",
     "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
     "ts-node-dev": "^1.0.0-pre.44",
     "tslint": "^5.20.1"
+  },
+  "devDependencies": {
+    "@types/koa-bodyparser": "^4.3.0"
   }
 }
