@@ -1,0 +1,37 @@
+{
+  "name": "service.consumer.elasticsearch.koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoRoca/service.consumer.elasticsearch.koa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoRoca/service.consumer.elasticsearch.koa/issues"
+  },
+  "homepage": "https://github.com/HugoRoca/service.consumer.elasticsearch.koa#readme",
+  "dependencies": {
+    "elasticsearch": "^16.6.0",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^8.0.7",
+    "tsc-watch": "^4.1.0",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.11.0",
+    "@types/koa-bodyparser": "^4.3.0",
+    "@types/koa-json": "^2.0.18",
+    "@types/koa-logger": "^3.1.1",
+    "@types/koa-router": "^7.4.0"
+  }
+}
