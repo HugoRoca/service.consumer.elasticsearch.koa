@@ -26,7 +26,8 @@
     "koa-logger": "^3.2.1",
     "koa-router": "^8.0.7",
     "tsc-watch": "^4.1.0",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "yenv": "^2.1.1"
   },
   "devDependencies": {
     "@types/koa": "^2.11.0",
